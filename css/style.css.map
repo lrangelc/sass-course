@@ -1,10 +1,11 @@
 {
-  "version": 3,
-  "mappings": "ACAA,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAC;EACb,gBAAgB,EAAE,IAAI;CACvB;;ADID,AAAA,IAAI,CAAC;EACH,KAAK,EAAE,GAAG;EACV,gBAAgB,EAJT,KAAK;CAKb",
-  "sources": [
-    "../scss/style.scss",
-    "../scss/_tablas.scss"
-  ],
-  "names": [],
-  "file": "style.css"
+    "version": 3,
+    "mappings": "ACAA;;mCAEmC;AAEnC,2BAA2B;AAS3B,uBAAuB;AAOvB,yBAAyB;AAOzB,6BAA6B;AAE7B,yBAAyB;AAGzB,uBAAuB;AAEvB,2BAA2B;AClC3B,AAAA,KAAK,EAAE,EAAE,CAAC;EACR,YAAY,EAAE,KAAK;EACnB,YAAY,EAAE,GAAG;EACjB,YAAY,EDGA,OAAO;CCFpB;;AAED,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAC;EACb,gBAAgB,EDAA,OAAkB;CCCnC",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/libs/_variables.scss",
+        "../scss/components/_tables.scss"
+    ],
+    "names": [],
+    "file": "style.css"
 }

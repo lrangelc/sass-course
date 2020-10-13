@@ -1,9 +1,20 @@
-table tr:hover {
-  background-color: gray;
+/* ----------------------------- *\
+|             $COLORS             |
+\* ----------------------------- */
+/*-------Branding colors */
+/*-------text colors */
+/*-------alerts colors */
+/*-------background colors */
+/*------- fonts styles */
+/*-------cols size's */
+/*-------elements size's */
+table, tr {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ea83ee;
 }
 
-.div {
-  color: red;
-  background-color: green;
+table tr:hover {
+  background-color: #dbd8dd;
 }
 /*# sourceMappingURL=style.css.map */
