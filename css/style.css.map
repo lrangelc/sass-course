@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "mappings": "ACAA,AAAA,KAAK,CAAC,EAAE,AAAA,MAAM,CAAC;EACb,gBAAgB,EAAE,IAAI;CACvB;;ADID,AAAA,IAAI,CAAC;EACH,KAAK,EAAE,GAAG;EACV,gBAAgB,EAJT,KAAK;CAKb",
+  "sources": [
+    "../scss/style.scss",
+    "../scss/_tablas.scss"
+  ],
+  "names": [],
+  "file": "style.css"
+}
