@@ -6,10 +6,17 @@
 
 $color-brand: #ea83ee;
 $color-secondary: rgb(219, 216, 221);
-$black: rgb(0, 0, 0);
-$dark-grey: #4d4d4d;
-$grey: #737373;
-$white: #ffffff;
+
+$color-black: rgb(0, 0, 0);
+$color-dark-grey: #4d4d4d;
+$color-grey: #737373;
+$color-white: #ffffff;
+
+// Texturas
+$color-alerts: red;
+$color-error: red;
+$color-info: red;
+$color-success: red;
 
 /*-------text colors */
 $black-text: black;
@@ -28,8 +35,21 @@ $primary-color: #584aff;
 /*-------background colors */
 
 /*------- fonts styles */
-$basefont: Verdana, Geneva, Tahoma, sans-serif;
+$basefont1: Verdana, Geneva, Tahoma, sans-serif;
 
 /*-------cols size's */
 
 /*-------elements size's */
+
+// Tipografia
+$basefont: 'Quicksand', sans-serif;
+$basefontsize: 16px;
+
+$buttoncolor: $color-white;
+$buttonbackgroundcolor: $color-brand;
+$buttonfontsize: $basefontsize * 1.5;
+
+// Constantes
+$border-radius: 10px;
+$padding: 24px;
+$page-max-width: 800px;

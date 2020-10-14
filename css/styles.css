@@ -1,0 +1,70 @@
+/* ----------------------------- *\
+|             $COLORS             |
+\* ----------------------------- */
+/*-------Branding colors */
+/*-------text colors */
+/*-------alerts colors */
+/*-------background colors */
+/*------- fonts styles */
+/*-------cols size's */
+/*-------elements size's */
+/* ----------------------------- *\
+             $MIXINS
+\* ----------------------------- */
+/* ----------------------------- *\
+|             $TABLES             |
+\* ----------------------------- */
+/*-------Branding colors */
+table, tr {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ea83ee;
+}
+
+table tr:hover {
+  background-color: #dbd8dd;
+}
+
+/* ----------------------------- *\
+|             $BUTTONS            |
+\* ----------------------------- */
+/*-------Branding colors */
+.btn {
+  display: inline-block;
+  color: #ffffff;
+  background-color: #ea83ee;
+  line-height: 2.5;
+  border-radius: 10px;
+  font-size: 24px;
+}
+.btn__icon {
+  font-size: 0.6em;
+}
+.btn.btn--info {
+  background-color: red;
+}
+
+/* ----------------------------- *\
+|             $COLORS             |
+\* ----------------------------- */
+/*-------Branding colors */
+section {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+  padding: 24px;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 800px) {
+  section {
+    background-color: red;
+  }
+}
+
+.max-width--huge {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ea83ee;
+}
