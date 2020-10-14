@@ -3,3 +3,9 @@
 \* ----------------------------- */
 
 /*-------Branding colors */
+
+blockquote {
+  p {
+    font-size: map-get($fs, nornal);
+  }
+}
